@@ -7,7 +7,7 @@ Estudiante de **Ingeniería Informática** en la Universidad de Burgos. Me gusta
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [**dashboard-vida-plantilla**](https://github.com/Mariporg1/dashboard-vida-plantilla) | Web personal instalable en el móvil que junta clases, tareas, entregas de Moodle, eventos de Outlook y turnos en una sola pantalla. | Next.js · TypeScript · Drizzle · Vercel |
-| [**Gnome**](https://github.com/Mariporg1/gnome_app) | App iOS para encontrar, fotografiar y coleccionar los gnomos de Wrocław. Proyecto en la Politechnika Wrocławska. | Swift · SwiftUI · MapKit |
+| [**Find the Gnome**](https://github.com/Mariporg1/find-the-gnome-wroclaw) | App iOS para encontrar, fotografiar y coleccionar los gnomos de Wrocław. Proyecto en la Politechnika Wrocławska. | Swift · SwiftUI · MapKit |
 | [**Gym AI Finder**](https://github.com/Javisardignas/Gym-AI-Finder-NN) | Buscador de ejercicios de gimnasio en lenguaje natural con un modelo Sentence Transformers ajustado sobre 675 ejercicios. | Python · PyTorch · Flask · Flutter |
 | [**AiBC**](https://github.com/Apueblar/AiBC) | Piloto autónomo para la IBM AI Racing League 2026 en el simulador TORCS. | Python · IBM Granite · Docker |
 | [**Hackaton Michelin**](https://github.com/Esc198/Hackaton-Michelin) | Aplicación de escritorio desarrollada durante el hackatón de Michelin. | Java · JavaFX · Maven |
