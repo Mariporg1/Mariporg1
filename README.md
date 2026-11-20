@@ -28,6 +28,10 @@ Estudiante de **Ingeniería Informática** en la Universidad de Burgos. Me gusta
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+## 🎓 Certificaciones
+
+[![Claude Code 101](https://img.shields.io/badge/Claude%20Code%20101-Anthropic-D97757?style=flat&logo=anthropic&logoColor=white)](https://academy.claude.com/verify/fa9af310be854579b18188ed15a2fe62)
+
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Alonso-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-alonso-5b309b35b/)
