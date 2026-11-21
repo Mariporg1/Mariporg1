@@ -31,6 +31,7 @@ Estudiante de **Ingeniería Informática** en la Universidad de Burgos. Me gusta
 ## 🎓 Certificaciones
 
 [![Claude Code 101](https://img.shields.io/badge/Claude%20Code%20101-Anthropic-D97757?style=flat&logo=anthropic&logoColor=white)](https://academy.claude.com/verify/fa9af310be854579b18188ed15a2fe62)
+[![Google Cloud – IA generativa](https://img.shields.io/badge/IA%20generativa-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/5f3f304b-2314-4fdf-bc8b-cd3e6ae60cea)
 
 ## 📫 Contacto
 
